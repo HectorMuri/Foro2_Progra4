@@ -1,0 +1,1 @@
+Nuestro trabajo es: configurar package.json, instalando  un paquete npm e iniciando un servidor de desarrollo.
